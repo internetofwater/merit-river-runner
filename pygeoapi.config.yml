@@ -32,8 +32,8 @@
 server:
     bind:
         host: localhost #change to your hostname if running your own instance
-        port: 5000
-    url: https://merit-features.internetofwater.dev #change to host URL  if running your own instance
+        port: 5050
+    url: https://merit.internetofwater.dev #change to host URL  if running your own instance
     mimetype: application/json; charset=UTF-8
     encoding: utf-8
     language: en-US
