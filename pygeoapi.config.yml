@@ -82,7 +82,7 @@ metadata:
         role: pointOfContact
 
 resources:
-    hu02:
+    merit:
         type: collection
         title: merit
         geojsonld: false
@@ -110,5 +110,5 @@ resources:
               name: SQLiteGPKG
               data: /data/merit_plus_simplify.gpkg
               id_field: comid
-              table: merit_plus_simplify
+              table: merit_plus
     
